@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - lmimlib (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - lmimlib (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  lmimlib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  lmimlib: 7b56256a4bccf9ae6e1cea1a1f49082892eb4c09
+
+PODFILE CHECKSUM: a5b4a51c12211ff74357f05941ec2b44f355d2bf
+
+COCOAPODS: 1.10.1

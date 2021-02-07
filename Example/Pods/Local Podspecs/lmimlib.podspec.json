@@ -1,0 +1,22 @@
+{
+  "name": "lmimlib",
+  "version": "0.1.0",
+  "summary": "A short description of lmimlib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/960157994@qq.com/lmimlib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "960157994@qq.com": "3077118763@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/960157994@qq.com/lmimlib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "lmimlib/Classes/**/*"
+}

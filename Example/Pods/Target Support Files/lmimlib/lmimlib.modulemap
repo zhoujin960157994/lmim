@@ -1,0 +1,6 @@
+framework module lmimlib {
+  umbrella header "lmimlib-umbrella.h"
+
+  export *
+  module * { export * }
+}

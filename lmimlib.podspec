@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'lmimlib'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of lmimlib.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/960157994@qq.com/lmimlib'
+  s.homepage         = 'https://github.com/zhoujin960157994/lmimlib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '960157994@qq.com' => '3077118763@qq.com' }
-  s.source           = { :git => 'https://github.com/960157994@qq.com/lmimlib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/zhoujin960157994/lmimlib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
